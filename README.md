@@ -1,4 +1,4 @@
-# Cpp_Graph_Theory
+# C++ Graph Theory
 
 ##### Algorithmes de Prim :
 L'ordre, le nombre d’arêtes, la liste des arêtes (2 sommets et un poids) du graphe ci-dessus seront d’abord lus dans un fichier texte d’entrée sous la forme suivante :
