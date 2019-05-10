@@ -15,6 +15,6 @@ L’ordre du graphe et la matrice d’adjacence pondérée seront lus dans un 
 
 
 
-##### A. Codez en C++ les classes respectant les consignes du cahier des charges. Soyez modulaires et commentez. 
-##### B. Utilisez l'algorythme de Prim pour écrire le programme permettant d’afficher et sauvegarder l’arbre de poids minimum du graphe.
-##### C. Utilisez l'algorythme de Dijkstra, pour écrire le programme permettant d’afficher l’arbre des plus courts chemins à partir d’un sommet quelconque à saisir et la longueur de chaque plus court chemin.
+* A. Codez en C++ les classes respectant les consignes du cahier des charges. Soyez modulaires et commentez. 
+* B. Utilisez l'algorythme de Prim pour écrire le programme permettant d’afficher et sauvegarder l’arbre de poids minimum du graphe.
+* C. Utilisez l'algorythme de Dijkstra, pour écrire le programme permettant d’afficher l’arbre des plus courts chemins à partir d’un sommet quelconque à saisir et la longueur de chaque plus court chemin.
